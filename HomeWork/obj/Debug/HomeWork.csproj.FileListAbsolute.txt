@@ -1,0 +1,582 @@
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.Form1.resources
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+c:\users\yuriy dovzhenko\documents\visual studio 2013\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Yuriy Dovzhenko\Documents\Visual Studio 2013\Projects\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Charts.Designer.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.CodeConverter.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Dashboard.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Mvvm.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Xpf.Printing.v15.1.Service.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Service.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Charts.Designer.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Dashboard.v15.1.Core.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Mvvm.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Xpf.Printing.v15.1.Service.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Service.xml
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Charts.Designer.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Dashboard.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Dashboard.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Dashboard.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Dashboard.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Загрузки\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+D:\Загрузки\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+D:\Загрузки\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+D:\Загрузки\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+D:\Загрузки\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+D:\Загрузки\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Charts.Designer.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Dashboard.v15.1.Core.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Mvvm.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Xpf.Printing.v15.1.Service.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Service.xml
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Charts.Designer.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Charts.Designer.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Charts.Designer.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Charts.Designer.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Dashboard.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\Volskiy_V\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+C:\Users\WBV\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\WBV\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\WBV\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Charts.Designer.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Dashboard.v15.1.Core.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Data.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Mvvm.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Office.v15.1.Core.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Xpf.Printing.v15.1.Service.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Xpo.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraBars.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\DevExpress.XtraReports.v15.1.Service.xml
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Charts.Designer.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Charts.Designer.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Charts.Designer.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Charts.Designer.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Dashboard.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Dashboard.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Dashboard.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Dashboard.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+F:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+E:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+E:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+E:\Новая папка\Емпіричні методи ПІ\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\Kseniia\Desktop\ЕМПІ\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.Cache
+C:\Users\Kseniia\Desktop\empi\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.MainWindow.resources
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.exe.licenses
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CopyComplete
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\tumah\OneDrive\Робочий стіл\nau (1)-20200101T123716Z-001\HomeWork\HomeWork\obj\Debug\HomeWork.pdb

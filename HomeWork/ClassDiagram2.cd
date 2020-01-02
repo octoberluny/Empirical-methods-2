@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HomeWork.Calculate">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAEkAAAAAAACAEBAAAACAAAAQAABCAAQAAAAACAA=</HashCode>
+      <FileName>Calculate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.MainWindow">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>1yIAAAbAYCowBRcRAFCgIJoCQKSdgAAEAegBgBCBsDo=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Loading" />
+      <Property Name="Regresia" />
+      <Property Name="Calculate" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="HomeWork.Regresia">
+    <Position X="0.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Regresia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeWork.Loading">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Loading.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

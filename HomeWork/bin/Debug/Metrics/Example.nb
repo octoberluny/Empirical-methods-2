@@ -1,0 +1,188 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5827,        179]
+NotebookOptionsPosition[      4785,        139]
+NotebookOutlinePosition[      5131,        154]
+CellTagsIndexPosition[      5088,        151]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"metrix", "=", " ", 
+   RowBox[{"{", 
+    RowBox[{
+    "610", ",", "19", ",", "602", ",", "124", ",", "784", ",", "77", ",", 
+     "271", ",", "137", ",", "183", ",", "271", ",", "150", ",", "29", ",", 
+     "530", ",", "100", ",", "183", ",", "174", ",", "30", ",", "19", ",", 
+     "8", ",", "207", ",", "25", ",", "7", ",", "14", ",", "134", ",", "51", 
+     ",", "20", ",", "27", ",", "22", ",", "192"}], "}"}]}], 
+  "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.64352241182846*^9, 3.643522421582018*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "610", ",", "19", ",", "602", ",", "124", ",", "784", ",", "77", ",", "271",
+    ",", "137", ",", "183", ",", "271", ",", "150", ",", "29", ",", "530", 
+   ",", "100", ",", "183", ",", "174", ",", "30", ",", "19", ",", "8", ",", 
+   "207", ",", "25", ",", "7", ",", "14", ",", "134", ",", "51", ",", "20", 
+   ",", "27", ",", "22", ",", "192"}], "}"}]], "Input",
+ CellChangeTimes->{{3.64352311396562*^9, 3.6435231152606945`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "610", ",", "19", ",", "602", ",", "124", ",", "784", ",", "77", ",", "271",
+    ",", "137", ",", "183", ",", "271", ",", "150", ",", "29", ",", "530", 
+   ",", "100", ",", "183", ",", "174", ",", "30", ",", "19", ",", "8", ",", 
+   "207", ",", "25", ",", "7", ",", "14", ",", "134", ",", "51", ",", "20", 
+   ",", "27", ",", "22", ",", "192"}], "}"}]], "Input",
+ CellChangeTimes->{3.643523967215423*^9}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "610", ",", "19", ",", "602", ",", "124", ",", "784", ",", "77", ",", "271",
+    ",", "137", ",", "183", ",", "271", ",", "150", ",", "29", ",", "530", 
+   ",", "100", ",", "183", ",", "174", ",", "30", ",", "19", ",", "8", ",", 
+   "207", ",", "25", ",", "7", ",", "14", ",", "134", ",", "51", ",", "20", 
+   ",", "27", ",", "22", ",", "192"}], "}"}]], "Output",
+ CellChangeTimes->{3.6435239672934275`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"N", "[", 
+  RowBox[{"Variance", "[", "metrix", "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.6435239694945536`*^9, 3.6435239983752055`*^9}}],
+
+Cell[BoxData["42499.32266009852`"], "Output",
+ CellChangeTimes->{{3.643523990274742*^9, 3.643523999014242*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"N", "[", 
+  RowBox[{"StandardDeviation", "[", "metrix", "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.6435241018051214`*^9, 3.643524120372183*^9}}],
+
+Cell[BoxData["206.15363848377385`"], "Output",
+ CellChangeTimes->{{3.643524112741747*^9, 3.6435241212002306`*^9}}]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.6435239765059547`*^9, 3.6435239765409565`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Sort", "[", 
+  RowBox[{"{", 
+   RowBox[{
+   "610", ",", "19", ",", "602", ",", "124", ",", "784", ",", "77", ",", 
+    "271", ",", "137", ",", "183", ",", "271", ",", "150", ",", "29", ",", 
+    "530", ",", "100", ",", "183", ",", "174", ",", "30", ",", "19", ",", "8",
+     ",", "207", ",", "25", ",", "7", ",", "14", ",", "134", ",", "51", ",", 
+    "20", ",", "27", ",", "22", ",", "192"}], "}"}], "]"}]], "Input",
+ NumberMarks->False],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "7", ",", "8", ",", "14", ",", "19", ",", "19", ",", "20", ",", "22", ",", 
+   "25", ",", "27", ",", "29", ",", "30", ",", "51", ",", "77", ",", "100", 
+   ",", "124", ",", "134", ",", "137", ",", "150", ",", "174", ",", "183", 
+   ",", "183", ",", "192", ",", "207", ",", "271", ",", "271", ",", "530", 
+   ",", "602", ",", "610", ",", "784"}], "}"}]], "Output",
+ CellChangeTimes->{3.643523127693405*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Total", "[", "metrix", "]"}]], "Input",
+ NumberMarks->False],
+
+Cell[BoxData["5000"], "Output",
+ CellChangeTimes->{3.6435225108571243`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Length", "[", "metrix", "]"}]], "Input",
+ NumberMarks->False],
+
+Cell[BoxData["29"], "Output",
+ CellChangeTimes->{3.6435225034687014`*^9}]
+}, Open  ]],
+
+Cell[BoxData["DispersionEstimatorFunction"], "Input",
+ CellChangeTimes->{{3.6435233629528613`*^9, 3.643523370023266*^9}, {
+  3.6435236596158295`*^9, 3.643523672335557*^9}}]
+},
+WindowSize->{759, 738},
+WindowMargins->{{128, Automatic}, {-148, Automatic}},
+FrontEndVersion->"10.1 for Microsoft Windows (64-bit) (March 23, 2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 554, 11, 86, InheritFromParent],
+Cell[1115, 33, 471, 8, 66, InheritFromParent],
+Cell[CellGroupData[{
+Cell[1611, 45, 446, 8, 66, InheritFromParent],
+Cell[2060, 55, 449, 8, 66, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2546, 68, 164, 3, 45, "Input"],
+Cell[2713, 73, 111, 1, 45, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2861, 79, 171, 3, 45, "Input"],
+Cell[3035, 84, 114, 1, 45, "Output"]
+}, Open  ]],
+Cell[3164, 88, 96, 1, 31, InheritFromParent],
+Cell[CellGroupData[{
+Cell[3285, 93, 462, 9, 66, "Input"],
+Cell[3750, 104, 447, 8, 66, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4234, 117, 84, 2, 45, "Input"],
+Cell[4321, 121, 75, 1, 45, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4433, 127, 85, 2, 45, "Input"],
+Cell[4521, 131, 73, 1, 45, "Output"]
+}, Open  ]],
+Cell[4609, 135, 172, 2, 31, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
